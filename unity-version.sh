@@ -1,4 +1,5 @@
 #!/bin/sh
+# https://blog.yucchiy.com/2020/10/unityhub-cli/
 
 OUTPUT_FILE="unity-versions.txt"
 touch $(pwd)/$OUTPUT_FILE
